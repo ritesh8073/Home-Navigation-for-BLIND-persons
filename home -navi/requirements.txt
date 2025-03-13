@@ -1,0 +1,7 @@
+torch==2.2.2
+opencv-python==4.7.0.72
+pyttsx3==2.90
+transformers==4.47.1
+pillow==8.4.0
+numpy==1.24.2
+keyboard==0.13.5
